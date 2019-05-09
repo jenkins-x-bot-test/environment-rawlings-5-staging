@@ -7,15 +7,6 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: ilovewine
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: jr-foobar2
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.3
-- name: jr-test-kanikosa
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.4
 - name: thingymagic
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
