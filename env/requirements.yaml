@@ -16,3 +16,6 @@ dependencies:
 - name: jr-test-kanikosa
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
+- name: thingymagic
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
